@@ -1,3 +1,4 @@
+/*
 ===============================================================================
 Script Purpose:
     This script creates tables in the 'silver' schema, dropping existing tables 
